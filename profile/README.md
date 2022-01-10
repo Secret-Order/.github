@@ -2,5 +2,6 @@
 
 ![Logo](profile/secretorder_logo.png)
 <p align="center">
-  ʜᴇʟʟᴏ, ᴏᴜᴛsɪᴅᴇʀ
+  ʜᴇʟʟᴏ, ᴏᴜᴛsɪᴅᴇʀ<br>
+  ᴡᴇ'ʀᴇ ᴡᴏʀᴋɪɴɢ ᴏɴ ꜱᴏᴍᴇᴛʜɪɴɢ ʙɪɢ
 </p>
